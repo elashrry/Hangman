@@ -1,0 +1,18 @@
+hard, football player, pavel nedved
+hard, football player, diego forlan 
+easy, football player, maradona
+easy, football player, messi
+easy, football player, cristiano ronaldo
+easy, fictional character, batman
+easy, singer, eminem
+easy, actress, Amy adams
+easy, actor, tom hanks
+easy, actor, robin williams
+easy, actress, jennifer lawrence
+medium, actor,don cheadle
+hard, actor, paul newman
+hard, actor, laurence olivier
+hard, actor, lee strasberg
+hard, actor, sacha noam baron
+medium, actor, shia labeouf
+medium, actress, glenn close

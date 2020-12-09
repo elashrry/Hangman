@@ -1,0 +1,6 @@
+easy, city, london
+easy, city, cairo
+medium, city, buenos aires
+medium, city, soul
+medium, city, mumbai
+hard, city, dhaka

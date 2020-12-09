@@ -1,0 +1,12 @@
+easy, word, cat
+easy, word, door
+easy, word, laptop
+easy, word, window
+medium, word, blender
+medium, word, pyrex 
+medium, word, equip
+medium, word, joyful
+hard, word, lengths
+hard, word, scratch
+hard, word, wristwatch
+hard, word, syndrome
