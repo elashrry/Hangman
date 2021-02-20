@@ -120,7 +120,8 @@ def choose_file():
     """prints the .txt files in the cwd and prompts the user to chose among 
     them"""
     dir_path = os.path.dirname(os.path.realpath(__file__)) # to get the directory where the file is located
-    files_list = [file for file in os.listdir(dir_path) if file.endswith(".txt")]
+    os.chdir(dir_path) # set current directory to the directory where the file is located
+    files_list = [file for file in os.listdir(dir_path) if file.endswith(".txt")] 
     valid_input = [str(i+1) for i in range(len(files_list))]
     
     print("You can choose one of the following files:")
