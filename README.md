@@ -1,4 +1,4 @@
-# hangman
+# Hangman
 
 This is a Python program to play Hangman in the shell. The program starts by presenting the .txt files in the directory where the .py file is located and asks you to choose one. Then it asks which level you want to play (Easy, Medium, Hard) and then the game starts. There is always the option to quit the game or to go the main menue where you can change the .txt file the words are coming from or the level of the game. 
 
