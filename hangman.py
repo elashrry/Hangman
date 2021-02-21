@@ -148,7 +148,7 @@ def main_menu():
     choose the level and then uses the function get_words to get a list of 
     words as described in the function get_words """
     open_status = True
-    dis_msg("__Welcome to $$NAME$$'s Hangman__")
+    dis_msg("__Welcome to Hangman__")
     
     #choose a file
     file_name = choose_file()
